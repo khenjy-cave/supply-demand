@@ -1,15 +1,10 @@
 # Value Creation
 
-Value creation is the core of every successful business model. It's about delivering something customers *actually* care about.
+PT. Puri Global Sukses delivers value through:
 
-## Ways to Create Value:
-- **Solving a painful problem**
-- **Improving convenience or efficiency**
-- **Saving time or money**
-- **Offering status, joy, or identity**
-- **Building trust or reducing risk**
+- Premium property designs that meet modern lifestyle expectations.
+- Reliable, on-time construction that builds buyer trust.
+- Centralized project location in Batam Center, maximizing accessibility and value.
+- Trend-aligned aesthetics that appeal to both domestic and foreign buyers.
 
-## Business Perspective:
-Value isn't just customer-facing—it also includes **operational efficiency**, **scalability**, and **brand equity**.
-
-> “Real value is when users feel like they'd miss you if you disappeared.”
+> Every brick laid adds value beyond walls—it builds futures.

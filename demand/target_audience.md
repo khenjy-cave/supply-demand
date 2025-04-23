@@ -1,11 +1,10 @@
 # Target Audience
 
-The target audience represents the specific group of people a product or service is designed to serve. Defining this group is essential for aligning messaging, pricing, and features.
+The company's core demand comes from:
 
-## Key Dimensions:
-- **Demographics**: Age, gender, income level, education.
-- **Psychographics**: Interests, beliefs, attitudes.
-- **Behavioral Traits**: Purchase patterns, tech adoption, lifestyle.
-- **Pain Points**: What problems are they actively trying to solve?
+- Middle to upper-class home buyers in Batam.
+- Small-to-medium enterprises (SMEs) seeking commercial space.
+- Property investors looking for high-growth areas.
+- Government-backed development programs encouraging city expansion.
 
-> “If you’re building for everyone, you’re building for no one.”
+> Each project serves a vision, but also a very real customer with growing needs.

@@ -1,15 +1,9 @@
-# Trends and Market Responses
+# Trends and Responses
 
-Tracking trends helps companies anticipate rather than react. The real challenge lies in *how* businesses respond.
+PT. Puri Global Sukses keeps up with trends like:
 
-## Recent Trends:
-- **Sustainability**: Eco-conscious products and ethical supply chains.
-- **Remote Work**: Rise in productivity tools and asynchronous workflows.
-- **AI Everywhere**: From automation to creative generation.
+- The rise of mixed-use living (residential + commercial).
+- Demand for modern smart-home features and green infrastructure.
+- Indonesia’s pivot to infrastructure-first development (especially in Batam SEZ).
 
-## Response Strategies:
-- Early adoption or pivot
-- Repositioning existing offerings
-- R&D investment or partnerships
-
-> “Recognizing a trend is easy—responding well is rare.”
+> Following trends is good—shaping them is better.

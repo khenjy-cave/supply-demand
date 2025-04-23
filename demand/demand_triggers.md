@@ -1,12 +1,10 @@
 # Demand Triggers
 
-Demand triggers are factors or events that cause a sudden or steady rise in interest for a product, service, or solution. Understanding what sparks demand is essential for anticipating market needs and aligning offerings accordingly.
+PT. Puri Global Sukses sees demand triggered by:
 
-## Common Triggers:
-- **Technological Advancements**: New tech reshapes what people want (e.g., AI, blockchain).
-- **Regulatory Changes**: Government policies can create new market opportunities.
-- **Cultural Shifts**: Trends in behavior, fashion, or values spark fresh demand.
-- **Economic Events**: Inflation, interest rate cuts, or employment shifts can influence buying power.
-- **Crises or Disasters**: Pandemics or natural disasters often shift focus to essentials or alternatives.
+- Urban growth and housing shortages in Batam.
+- Infrastructure investments in Batam Center drawing new residents and businesses.
+- Rising expectations for high-quality, trend-aligned housing and commercial spaces.
+- Indonesia’s real estate market recovery post-pandemic.
 
-> “Demand doesn’t just appear. Something causes it to *wake up*.”
+> Growth in place and people drives demand for spaces to live, work, and thrive.

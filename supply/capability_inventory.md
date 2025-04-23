@@ -1,11 +1,9 @@
 # Capability Inventory
 
-A capability inventory outlines what your organization or team is *able* to do—its internal strengths.
+PT. Puri Global Sukses has internal strengths like:
 
-## Categories:
-- **Human Capital**: Skills, experience, and training.
-- **Technology**: Tools, platforms, systems.
-- **Processes**: Efficiency, agility, repeatability.
-- **Financial**: Budget flexibility, access to capital.
+- Experienced leadership with multi-sector exposure.
+- Skilled teams in legal, architectural, and financial domains.
+- Location strategy with deep knowledge of Batam Center dynamics.
 
-> “Don’t promise what you can’t deliver—start with what you *can*.”
+> Capabilities are not what you have—they're what you multiply.

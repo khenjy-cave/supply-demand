@@ -1,16 +1,9 @@
 # Unmet Needs & Opportunities
 
-Markets are full of unmet needs—problems that are either underserved or overlooked. Identifying these is where innovation begins.
+Opportunities for expansion include:
 
-## How to Spot Them:
-- Complaints and bad reviews
-- Feature requests and workarounds
-- Underserved segments (niches)
-- Market gaps due to pricing, culture, or accessibility
+- Development of mid-range housing that bridges affordability and design.
+- Community-first developments: parks, schools, and integrated services.
+- Collaboration with digital platforms for virtual showrooms and smart-home tech integration.
 
-## Tools to Help:
-- Jobs-to-be-Done framework
-- User interviews and shadowing
-- Trend analysis with unmet intent keywords
-
-> “Your biggest opportunity is what no one’s solving well—yet.”
+> Where the market pauses, opportunity whispers.

@@ -1,11 +1,10 @@
 # Supply Chain
 
-The supply chain covers the full journey of a product—from raw material to customer delivery.
+The company’s project delivery relies on:
 
-## Key Components:
-- **Sourcing**: Where and how you get raw materials.
-- **Manufacturing**: Assembly or production processes.
-- **Logistics**: Warehousing, transportation, fulfillment.
-- **Risk Management**: Backup plans, supplier diversification, crisis handling.
+- Local and regional material suppliers.
+- Long-term construction partners and subcontractors.
+- Real estate agencies and digital platforms for marketing.
+- Strategic governmental collaboration for zoning and infrastructure support.
 
-> “A chain is only as strong as its weakest vendor.”
+> Great developments are only as strong as their logistics and relationships.

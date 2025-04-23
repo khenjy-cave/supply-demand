@@ -1,15 +1,10 @@
 # Cost Structure
 
-Your cost structure is how your organization spends money to operate. Understanding this is key to pricing, scaling, and profit margins.
+Typical costs involved include:
 
-## Fixed Costs:
-- Salaries
-- Rent
-- Software licenses
+- Land acquisition in Batam Center (high due to prime location).
+- Construction labor and materials (especially high-quality imports).
+- Marketing and investor engagement campaigns.
+- Administrative overhead from regulatory and legal compliance.
 
-## Variable Costs:
-- Raw materials
-- Commissioned labor
-- Shipping and logistics
-
-> “Revenue is vanity. Cost structure is reality.”
+> Cost isn’t just expense—it’s the price of opportunity.
