@@ -1,11 +1,7 @@
 # Supply Chain
 
-The supply chain covers the full journey of a product—from raw material to customer delivery.
+This file maps the systems that support my productivity across all 12 categories.
 
-## Key Components:
-- **Sourcing**: Where and how you get raw materials.
-- **Manufacturing**: Assembly or production processes.
-- **Logistics**: Warehousing, transportation, fulfillment.
-- **Risk Management**: Backup plans, supplier diversification, crisis handling.
+From template-based workflows to scheduled reflection time, I rely on structure and intention to avoid chaos and sustain performance.
 
-> “A chain is only as strong as its weakest vendor.”
+> You are your own supplier—and your systems are your factories.

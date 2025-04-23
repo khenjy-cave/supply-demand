@@ -1,11 +1,7 @@
 # Target Audience
 
-The target audience represents the specific group of people a product or service is designed to serve. Defining this group is essential for aligning messaging, pricing, and features.
+This outlines the groups that expect something from me in each of the 12 life categories.
 
-## Key Dimensions:
-- **Demographics**: Age, gender, income level, education.
-- **Psychographics**: Interests, beliefs, attitudes.
-- **Behavioral Traits**: Purchase patterns, tech adoption, lifestyle.
-- **Pain Points**: What problems are they actively trying to solve?
+From college classmates and scholarship boards to family members and teammates in competitions, these are the people and institutions whose expectations shape what I prioritize.
 
-> “If you’re building for everyone, you’re building for no one.”
+> You may have 12 focuses, but they each have their own crowd.

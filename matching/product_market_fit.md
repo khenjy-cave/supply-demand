@@ -1,15 +1,7 @@
 # Product-Market Fit
 
-Product-market fit (PMF) is the alignment between what you're offering and what your market *desperately* wants.
+This captures the moments when what I offer fits perfectly with what is needed.
 
-## Indicators of PMF:
-- Customers come back without reminders
-- Word-of-mouth drives growth
-- You can’t hire fast enough to keep up with demand
+When a project I did in college gets featured by a company, or when a competition builds directly into a freelance gig—that’s alignment.
 
-## Testing for PMF:
-- Surveys (e.g., “How disappointed would you be if this product went away?”)
-- Churn rates and customer retention
-- Net Promoter Score (NPS)
-
-> “PMF means people want what you built—even if it’s still ugly.”
+> It's not just effort—it’s when effort lands where it matters.

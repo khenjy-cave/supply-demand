@@ -1,15 +1,7 @@
 # Oversupply Risks
 
-Oversupply occurs when the quantity of goods or services exceeds market demand. It leads to price drops, waste, or lost margins.
+This file addresses the dangers of investing too much time or energy into one life domain.
 
-## Causes:
-- Overestimating market size
-- Ignoring competitor capacity
-- Lack of data-driven forecasting
+Too much internship work might hurt my college performance. Too much personal time might sacrifice community contribution. Balance is key.
 
-## Consequences:
-- Inventory storage issues
-- Discounts that hurt perceived value
-- Wasted production resources
-
-> “Making too much is often worse than making too little.”
+> Oversupply isn't burnout—it's the loss of balance.

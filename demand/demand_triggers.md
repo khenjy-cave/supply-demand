@@ -1,12 +1,7 @@
 # Demand Triggers
 
-Demand triggers are factors or events that cause a sudden or steady rise in interest for a product, service, or solution. Understanding what sparks demand is essential for anticipating market needs and aligning offerings accordingly.
+This file explores what causes others to place demands or expectations on me across the 12 domains of life.
 
-## Common Triggers:
-- **Technological Advancements**: New tech reshapes what people want (e.g., AI, blockchain).
-- **Regulatory Changes**: Government policies can create new market opportunities.
-- **Cultural Shifts**: Trends in behavior, fashion, or values spark fresh demand.
-- **Economic Events**: Inflation, interest rate cuts, or employment shifts can influence buying power.
-- **Crises or Disasters**: Pandemics or natural disasters often shift focus to essentials or alternatives.
+Going to college might make others expect me to be a role model. Winning a scholarship may lead people to ask for help. Simply being active online or present in an organization can trigger new obligations from those around me.
 
-> “Demand doesn’t just appear. Something causes it to *wake up*.”
+> Living visibly creates invisible obligations. Every step forward triggers new eyes and new needs.

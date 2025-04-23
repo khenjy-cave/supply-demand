@@ -1,16 +1,7 @@
 # Unmet Needs & Opportunities
 
-Markets are full of unmet needs—problems that are either underserved or overlooked. Identifying these is where innovation begins.
+Here I reflect on which of the 12 areas are often ignored but have potential.
 
-## How to Spot Them:
-- Complaints and bad reviews
-- Feature requests and workarounds
-- Underserved segments (niches)
-- Market gaps due to pricing, culture, or accessibility
+Am I neglecting personal time? Skipping seminars? Missing out on organizing my collections? These are areas of hidden growth.
 
-## Tools to Help:
-- Jobs-to-be-Done framework
-- User interviews and shadowing
-- Trend analysis with unmet intent keywords
-
-> “Your biggest opportunity is what no one’s solving well—yet.”
+> Your most ignored principle may be your most needed.

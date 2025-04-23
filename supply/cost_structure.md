@@ -1,15 +1,7 @@
 # Cost Structure
 
-Your cost structure is how your organization spends money to operate. Understanding this is key to pricing, scaling, and profit margins.
+This file reflects on the costs (time, stress, energy) of engaging deeply with each of the 12 principles.
 
-## Fixed Costs:
-- Salaries
-- Rent
-- Software licenses
+Maintaining consistency isn’t free—sometimes I pay in sleep, sometimes in missed events, sometimes in mental strain.
 
-## Variable Costs:
-- Raw materials
-- Commissioned labor
-- Shipping and logistics
-
-> “Revenue is vanity. Cost structure is reality.”
+> Even meaning has a price—and you pay it in time, focus, and energy.

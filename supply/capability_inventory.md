@@ -1,11 +1,7 @@
 # Capability Inventory
 
-A capability inventory outlines what your organization or team is *able* to do—its internal strengths.
+This is a self-inventory of skills, behaviors, and tools that help me across the 12 life domains.
 
-## Categories:
-- **Human Capital**: Skills, experience, and training.
-- **Technology**: Tools, platforms, systems.
-- **Processes**: Efficiency, agility, repeatability.
-- **Financial**: Budget flexibility, access to capital.
+I use GitHub to manage my projects. I organize tasks with a methodical system. I reflect deeply and act intentionally.
 
-> “Don’t promise what you can’t deliver—start with what you *can*.”
+> What you supply isn’t just action—it’s your pattern of doing.

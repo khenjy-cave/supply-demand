@@ -1,17 +1,7 @@
 # Case Studies
 
-These real-world examples show how companies responded to demand patterns effectively—or failed to.
+This file captures real-life stories that show the interaction of supply and demand in the 12 areas.
 
-## Example 1: Netflix
-**Trigger**: Internet bandwidth and streaming habits  
-**Response**: Shifted from DVDs to streaming, then to content production.
+Example: Balancing college and an internship during finals week. Or the time a seminar gave me unexpected confidence to speak in public.
 
-## Example 2: Kodak
-**Trigger**: Rise of digital cameras  
-**Response**: Ignored for too long; failed to adapt and lost market share.
-
-## Example 3: Zoom
-**Trigger**: COVID-19 pandemic  
-**Response**: Scaled rapidly to meet sudden global video conferencing needs.
-
-> “Case studies are hindsight with clarity—your future can benefit from that.”
+> A principle isn't a rule until it's tested by life.
