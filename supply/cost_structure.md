@@ -1,15 +1,9 @@
 # Cost Structure
 
-Your cost structure is how your organization spends money to operate. Understanding this is key to pricing, scaling, and profit margins.
+What does maintaining this repo cost?
 
-## Fixed Costs:
-- Salaries
-- Rent
-- Software licenses
+- Time spent documenting scripts so they’re usable later.
+- Occasional refactoring or deduplication.
+- Context-switching mental effort when updating across tools.
 
-## Variable Costs:
-- Raw materials
-- Commissioned labor
-- Shipping and logistics
-
-> “Revenue is vanity. Cost structure is reality.”
+> The cost is in curation—but the payoff is compound time savings.

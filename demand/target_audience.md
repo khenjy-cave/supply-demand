@@ -1,11 +1,9 @@
 # Target Audience
 
-The target audience represents the specific group of people a product or service is designed to serve. Defining this group is essential for aligning messaging, pricing, and features.
+Who benefits from this metadata repository?
 
-## Key Dimensions:
-- **Demographics**: Age, gender, income level, education.
-- **Psychographics**: Interests, beliefs, attitudes.
-- **Behavioral Traits**: Purchase patterns, tech adoption, lifestyle.
-- **Pain Points**: What problems are they actively trying to solve?
+- You (the creator) when setting up or extending tools and environments quickly.
+- Future collaborators who need to plug into your workflows with minimal friction.
+- CLI-first developers, low-code tinkerers, and productivity hackers who want plug-and-play logic.
 
-> “If you’re building for everyone, you’re building for no one.”
+> This repo serves anyone trying to work faster, smarter, and more consistently across apps.

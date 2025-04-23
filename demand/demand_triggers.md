@@ -1,12 +1,9 @@
 # Demand Triggers
 
-Demand triggers are factors or events that cause a sudden or steady rise in interest for a product, service, or solution. Understanding what sparks demand is essential for anticipating market needs and aligning offerings accordingly.
+Why does the need for a metadata repository arise?
 
-## Common Triggers:
-- **Technological Advancements**: New tech reshapes what people want (e.g., AI, blockchain).
-- **Regulatory Changes**: Government policies can create new market opportunities.
-- **Cultural Shifts**: Trends in behavior, fashion, or values spark fresh demand.
-- **Economic Events**: Inflation, interest rate cuts, or employment shifts can influence buying power.
-- **Crises or Disasters**: Pandemics or natural disasters often shift focus to essentials or alternatives.
+- Constant experimentation with tools, APIs, apps, and CLIs creates many one-off scripts.
+- Repetitive setup/config needs across projects (e.g., tool aliases, helper functions).
+- Increasing complexity in personal dev ecosystems and automation workflows.
 
-> “Demand doesn’t just appear. Something causes it to *wake up*.”
+> Demand comes from the desire to never rewrite the same code twice—across any context.

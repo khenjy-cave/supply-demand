@@ -1,15 +1,9 @@
 # Oversupply Risks
 
-Oversupply occurs when the quantity of goods or services exceeds market demand. It leads to price drops, waste, or lost margins.
+What happens if the repo grows without structure?
 
-## Causes:
-- Overestimating market size
-- Ignoring competitor capacity
-- Lack of data-driven forecasting
+- Hard-to-navigate sprawl of random scripts and helper files.
+- Duplicate logic across multiple entries.
+- Harder onboarding or reuse unless documentation is prioritized.
 
-## Consequences:
-- Inventory storage issues
-- Discounts that hurt perceived value
-- Wasted production resources
-
-> “Making too much is often worse than making too little.”
+> Without structure, flexibility becomes chaos.

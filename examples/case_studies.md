@@ -1,17 +1,9 @@
 # Case Studies
 
-These real-world examples show how companies responded to demand patterns effectively—or failed to.
+Examples of when the metadata repo proved useful:
 
-## Example 1: Netflix
-**Trigger**: Internet bandwidth and streaming habits  
-**Response**: Shifted from DVDs to streaming, then to content production.
+- Reusing a GitHub CLI aliasing script across multiple automation pipelines.
+- Copying a VSCode keybinding mod to a new laptop setup without rebuilding it.
+- Adapting a JSON-to-markdown script originally written for documentation into a new project setup.
 
-## Example 2: Kodak
-**Trigger**: Rise of digital cameras  
-**Response**: Ignored for too long; failed to adapt and lost market share.
-
-## Example 3: Zoom
-**Trigger**: COVID-19 pandemic  
-**Response**: Scaled rapidly to meet sudden global video conferencing needs.
-
-> “Case studies are hindsight with clarity—your future can benefit from that.”
+> The real power is when “one-time” scripts become timeless utilities.

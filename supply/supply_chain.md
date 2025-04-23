@@ -1,11 +1,9 @@
 # Supply Chain
 
-The supply chain covers the full journey of a product—from raw material to customer delivery.
+What powers this repository behind the scenes?
 
-## Key Components:
-- **Sourcing**: Where and how you get raw materials.
-- **Manufacturing**: Assembly or production processes.
-- **Logistics**: Warehousing, transportation, fulfillment.
-- **Risk Management**: Backup plans, supplier diversification, crisis handling.
+- Your own project work across tools like GitHub, VS Code, Python, and CLI.
+- Metadata extracted from tools, APIs, or workflows and stored consistently.
+- Scripts authored once, updated occasionally, used repeatedly.
 
-> “A chain is only as strong as its weakest vendor.”
+> Your projects are the mines—this repo is the refinery.

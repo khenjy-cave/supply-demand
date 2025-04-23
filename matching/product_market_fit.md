@@ -1,15 +1,9 @@
 # Product-Market Fit
 
-Product-market fit (PMF) is the alignment between what you're offering and what your market *desperately* wants.
+How does this repo perfectly serve a niche?
 
-## Indicators of PMF:
-- Customers come back without reminders
-- Word-of-mouth drives growth
-- You can’t hire fast enough to keep up with demand
+- Fits the solo dev who works across many contexts, tools, and use-cases.
+- Enables repeatability in tools that otherwise don’t preserve memory.
+- Perfect for systems thinkers who want to avoid brittle setups.
 
-## Testing for PMF:
-- Surveys (e.g., “How disappointed would you be if this product went away?”)
-- Churn rates and customer retention
-- Net Promoter Score (NPS)
-
-> “PMF means people want what you built—even if it’s still ugly.”
+> The fit comes when setup becomes recall—not reinvention.
