@@ -1,11 +1,10 @@
-# Capability Inventory
+# ERP Development Capabilities
 
-A capability inventory outlines what your organization or team is *able* to do—its internal strengths.
+## Purpose  
+Catalog tools/tech for building ERP apps.
 
-## Categories:
-- **Human Capital**: Skills, experience, and training.
-- **Technology**: Tools, platforms, systems.
-- **Processes**: Efficiency, agility, repeatability.
-- **Financial**: Budget flexibility, access to capital.
-
-> “Don’t promise what you can’t deliver—start with what you *can*.”
+## Key Content  
+- **Odoo**: Pre-built modules for fast deployment.  
+- **Laravel**: Robust backend for custom logic.  
+- **React**: Dynamic frontends for dashboards.  
+- **Vibe Coding**: Rapid prototyping of niche features.  

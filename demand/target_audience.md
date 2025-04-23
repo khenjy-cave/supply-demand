@@ -1,11 +1,10 @@
-# Target Audience
+# Target Audience for ERP Apps
 
-The target audience represents the specific group of people a product or service is designed to serve. Defining this group is essential for aligning messaging, pricing, and features.
+## Purpose  
+Define businesses/organizations needing ERP solutions.
 
-## Key Dimensions:
-- **Demographics**: Age, gender, income level, education.
-- **Psychographics**: Interests, beliefs, attitudes.
-- **Behavioral Traits**: Purchase patterns, tech adoption, lifestyle.
-- **Pain Points**: What problems are they actively trying to solve?
-
-> “If you’re building for everyone, you’re building for no one.”
+## Key Content  
+- **Industries**: Manufacturing, retail, healthcare, logistics.  
+- **Company Size**: SMEs to enterprises.  
+- **Pain Points**: Disconnected workflows, manual data entry, poor reporting.  
+- **Tech Familiarity**: Teams comfortable with SaaS or custom solutions.  

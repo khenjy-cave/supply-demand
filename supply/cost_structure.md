@@ -1,15 +1,10 @@
-# Cost Structure
+# ERP Development Costs
 
-Your cost structure is how your organization spends money to operate. Understanding this is key to pricing, scaling, and profit margins.
+## Purpose  
+Break down costs of building ERP solutions.
 
-## Fixed Costs:
-- Salaries
-- Rent
-- Software licenses
-
-## Variable Costs:
-- Raw materials
-- Commissioned labor
-- Shipping and logistics
-
-> “Revenue is vanity. Cost structure is reality.”
+## Key Content  
+- **Odoo**: Licensing costs vs. community edition.  
+- **Laravel/React**: Developer hours for custom builds.  
+- **Vibe Coding**: Reduced dev time for MVP stages.  
+- **Maintenance**: Cloud hosting, updates, and support.  

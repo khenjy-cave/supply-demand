@@ -1,15 +1,9 @@
-# Oversupply Risks
+# ERP Oversupply Risks
 
-Oversupply occurs when the quantity of goods or services exceeds market demand. It leads to price drops, waste, or lost margins.
+## Purpose  
+Address risks of generic ERP solutions flooding the market.
 
-## Causes:
-- Overestimating market size
-- Ignoring competitor capacity
-- Lack of data-driven forecasting
-
-## Consequences:
-- Inventory storage issues
-- Discounts that hurt perceived value
-- Wasted production resources
-
-> “Making too much is often worse than making too little.”
+## Key Content  
+- **Causes**: Too many "one-size-fits-all" ERPs, low differentiation.  
+- **Risks**: Price wars, customer confusion, integration fatigue.  
+- **Solutions**: Hyper-specialization (e.g., healthcare ERPs), leveraging Odoo/Laravel for customization.  

@@ -1,11 +1,9 @@
-# Supply Chain
+# ERP Supply Chain
 
-The supply chain covers the full journey of a product—from raw material to customer delivery.
+## Purpose  
+Map the ERP development lifecycle.
 
-## Key Components:
-- **Sourcing**: Where and how you get raw materials.
-- **Manufacturing**: Assembly or production processes.
-- **Logistics**: Warehousing, transportation, fulfillment.
-- **Risk Management**: Backup plans, supplier diversification, crisis handling.
-
-> “A chain is only as strong as its weakest vendor.”
+## Key Content  
+- **Stages**: Requirement gathering (industry-specific), development (Odoo/Laravel), testing, deployment.  
+- **Risks**: Over-reliance on third-party APIs, scalability limits.  
+- **Optimization**: Using React for reusable UI components, Odoo for plug-and-play modules.  
