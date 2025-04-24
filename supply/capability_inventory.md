@@ -9,3 +9,17 @@ The general-purpose Omnitags system can:
 - Scale horizontally across apps that share logic but differ in structure
 
 > It’s not a backend—it’s a logic orchestrator.
+
+
+
+
+# Capability Inventory
+
+What can the Omnitags CMS do?
+
+- Dynamic table mapping through aliases and field declarations.
+- Automatic controller/view creation through template routing.
+- Integration-ready APIs for frontend consumption.
+- Page builder logic using metadata for layout/content modularity.
+
+> The CMS is not a tool—it’s a set of composable capabilities.

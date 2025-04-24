@@ -9,3 +9,16 @@ Omnitags brings value by centralizing structure and distributing logic dynamical
 - **Reduced Time-to-Market**: For startups, internal tools, and MVPs—speed is survival.
 
 > Omnitags turns table chaos into clarity.
+
+
+
+# Value Creation
+
+What value does an Omnitags CMS bring?
+
+- Dynamic schema support—define fields in metadata, not code.
+- Fewer files, faster deployments—no need to scaffold a new CMS for each app.
+- Consistent UX for admins/editors across different content types.
+- Easily extendable to support multi-language, SEO fields, or custom logic.
+
+> Value is created when devs spend less time repeating themselves.

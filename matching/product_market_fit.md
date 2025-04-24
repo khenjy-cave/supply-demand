@@ -14,3 +14,15 @@ Is the Omnitags method truly needed across platforms?
 ❌ Will face pushback in highly regulated or test-heavy systems
 
 > Omnitags doesn’t need to win every team—just the right ones.
+
+
+
+# Product-Market Fit
+
+Where does Omnitags CMS shine?
+
+- Teams that need *a bit of everything* across content models but want *one backend*.
+- Use cases where schema changes frequently (events, campaigns, experiments).
+- Projects where fast content iterations matter more than strict schema design.
+
+> Omnitags CMS fits those who build often and adapt fast.

@@ -14,3 +14,16 @@ Where else could the Omnitags method shine?
 - Multi-framework plugin system (e.g., Laravel, Express, Django)
 
 > The next frontier? Letting users define *their own* data contracts.
+
+
+
+# Unmet Needs & Opportunities
+
+What features or expansions could strengthen this CMS?
+
+- GUI schema editor for non-devs to create new models.
+- Branch-based versioning of metadata for content staging/testing.
+- GraphQL layer powered by Omnitags mapping.
+- Integration with frontend site generators like Astro or Next.js.
+
+> What if metadata wasn’t just backend logic—but a no-code interface?
