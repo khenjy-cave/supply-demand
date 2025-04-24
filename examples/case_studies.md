@@ -1,17 +1,12 @@
 # Case Studies
 
-These real-world examples show how companies responded to demand patterns effectively—or failed to.
+## 1. University Project Builder
+Students created CRUD-based web apps within minutes using visual modeling and export options.
 
-## Example 1: Netflix
-**Trigger**: Internet bandwidth and streaming habits  
-**Response**: Shifted from DVDs to streaming, then to content production.
+## 2. Admin Dashboard Generator
+A non-tech admin team created a custom UI and DB schema for internal use without developer intervention.
 
-## Example 2: Kodak
-**Trigger**: Rise of digital cameras  
-**Response**: Ignored for too long; failed to adapt and lost market share.
+## 3. Freelancer Use Case
+Freelancers used CodeForge to deliver customizable MVPs faster for early-stage clients.
 
-## Example 3: Zoom
-**Trigger**: COVID-19 pandemic  
-**Response**: Scaled rapidly to meet sudden global video conferencing needs.
-
-> “Case studies are hindsight with clarity—your future can benefit from that.”
+> A use case is only complete when it proves the platform saves real time and effort.

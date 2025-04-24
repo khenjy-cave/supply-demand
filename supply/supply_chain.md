@@ -1,11 +1,10 @@
 # Supply Chain
 
-The supply chain covers the full journey of a product—from raw material to customer delivery.
+How does CodeForge work under the hood?
 
-## Key Components:
-- **Sourcing**: Where and how you get raw materials.
-- **Manufacturing**: Assembly or production processes.
-- **Logistics**: Warehousing, transportation, fulfillment.
-- **Risk Management**: Backup plans, supplier diversification, crisis handling.
+1. Users visually define UI and DB structure.
+2. Internal parser converts models to framework-specific code.
+3. System packages export as downloadable .zip for deployment.
+4. Optional editing before/after export extends flexibility.
 
-> “A chain is only as strong as its weakest vendor.”
+> CodeForge’s chain starts with drag-and-drop and ends in deployable code.

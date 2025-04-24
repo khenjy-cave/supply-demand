@@ -1,16 +1,10 @@
 # Unmet Needs & Opportunities
 
-Markets are full of unmet needs—problems that are either underserved or overlooked. Identifying these is where innovation begins.
+What can improve or evolve?
 
-## How to Spot Them:
-- Complaints and bad reviews
-- Feature requests and workarounds
-- Underserved segments (niches)
-- Market gaps due to pricing, culture, or accessibility
+- Realtime collaboration and live co-editing tools.
+- Marketplace for template exchanges or plugin integration.
+- API integration builder to extend CodeForge apps.
+- Export-to-mobile or PWA generation.
 
-## Tools to Help:
-- Jobs-to-be-Done framework
-- User interviews and shadowing
-- Trend analysis with unmet intent keywords
-
-> “Your biggest opportunity is what no one’s solving well—yet.”
+> Opportunity blooms where functionality empowers non-traditional devs.

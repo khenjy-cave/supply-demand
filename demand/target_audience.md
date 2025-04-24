@@ -1,11 +1,10 @@
 # Target Audience
 
-The target audience represents the specific group of people a product or service is designed to serve. Defining this group is essential for aligning messaging, pricing, and features.
+Who benefits from CodeForge?
 
-## Key Dimensions:
-- **Demographics**: Age, gender, income level, education.
-- **Psychographics**: Interests, beliefs, attitudes.
-- **Behavioral Traits**: Purchase patterns, tech adoption, lifestyle.
-- **Pain Points**: What problems are they actively trying to solve?
+- Non-developers who want to build applications without writing code.
+- Developers looking for fast-start scaffolding with customization options.
+- Project managers and startup founders prototyping business logic.
+- Admins who manage user access and system configurations.
 
-> “If you’re building for everyone, you’re building for no one.”
+> CodeForge serves both creators and controllers in the software lifecycle.

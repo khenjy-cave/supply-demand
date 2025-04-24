@@ -1,11 +1,10 @@
 # Capability Inventory
 
-A capability inventory outlines what your organization or team is *able* to do—its internal strengths.
+What can CodeForge do?
 
-## Categories:
-- **Human Capital**: Skills, experience, and training.
-- **Technology**: Tools, platforms, systems.
-- **Processes**: Efficiency, agility, repeatability.
-- **Financial**: Budget flexibility, access to capital.
+- Visual drag-and-drop UI builder for frontends.
+- Visual database schema designer.
+- Code export to Django, Laravel, and Odoo.
+- Basic user and project management, including versioning.
 
-> “Don’t promise what you can’t deliver—start with what you *can*.”
+> CodeForge transforms technical processes into intuitive flows.
