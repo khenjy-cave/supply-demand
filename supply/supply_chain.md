@@ -1,11 +1,10 @@
 # Supply Chain
 
-The supply chain covers the full journey of a product—from raw material to customer delivery.
+- **Logistics**: How will your methodology be delivered to the target audience?
+  - Online platforms, in-person workshops, hybrid models, etc.
 
-## Key Components:
-- **Sourcing**: Where and how you get raw materials.
-- **Manufacturing**: Assembly or production processes.
-- **Logistics**: Warehousing, transportation, fulfillment.
-- **Risk Management**: Backup plans, supplier diversification, crisis handling.
+- **Partnerships**: Key partnerships to ensure smooth delivery and scalability.
+  - Collaboration with wellness providers, educational institutions, etc.
 
-> “A chain is only as strong as its weakest vendor.”
+- **Scalability**: How will your supply chain scale as demand increases?
+  - Cloud-based delivery, automated wellness tracking, expanding expert networks.
