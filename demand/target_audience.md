@@ -1,11 +1,10 @@
 # Target Audience
 
-The target audience represents the specific group of people a product or service is designed to serve. Defining this group is essential for aligning messaging, pricing, and features.
+- **Demographics**: Describe the specific group of individuals or organizations you are targeting. 
+  - Age, profession, lifestyle, work environments.
+  
+- **Pain Points**: What are the specific issues they face regarding burnout?
+  - Work-life imbalance, stress, motivation loss, etc.
 
-## Key Dimensions:
-- **Demographics**: Age, gender, income level, education.
-- **Psychographics**: Interests, beliefs, attitudes.
-- **Behavioral Traits**: Purchase patterns, tech adoption, lifestyle.
-- **Pain Points**: What problems are they actively trying to solve?
-
-> “If you’re building for everyone, you’re building for no one.”
+- **Needs & Demands**: What are the demands of your target audience when it comes to burnout management?
+  - Flexibility, long-term solutions, mindfulness, etc.
