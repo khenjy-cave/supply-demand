@@ -1,16 +1,10 @@
-# Unmet Needs & Opportunities
+# Unmet Needs and Opportunities
 
-Markets are full of unmet needs—problems that are either underserved or overlooked. Identifying these is where innovation begins.
+- **Gaps in Current Solutions**: Identify areas where existing burnout management methods are lacking.
+  - One-size-fits-all solutions, lack of personalization, not addressing long-term burnout prevention.
 
-## How to Spot Them:
-- Complaints and bad reviews
-- Feature requests and workarounds
-- Underserved segments (niches)
-- Market gaps due to pricing, culture, or accessibility
+- **Your Opportunity**: Where does your methodology have a chance to fill these gaps?
+  - Personalized strategies, ongoing support, adaptable to various work environments.
 
-## Tools to Help:
-- Jobs-to-be-Done framework
-- User interviews and shadowing
-- Trend analysis with unmet intent keywords
-
-> “Your biggest opportunity is what no one’s solving well—yet.”
+- **Emerging Needs**: Identify new or growing demands related to burnout prevention.
+  - Focus on hybrid work environments, tech-assisted mental health tools, etc.
