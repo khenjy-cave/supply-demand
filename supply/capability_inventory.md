@@ -1,11 +1,10 @@
 # Capability Inventory
 
-A capability inventory outlines what your organization or team is *able* to do—its internal strengths.
+- **Tools & Technologies**: What tools or technologies are required to implement your burnoutproof methodology?
+  - Software platforms, productivity tools, wellness monitoring tools, etc.
 
-## Categories:
-- **Human Capital**: Skills, experience, and training.
-- **Technology**: Tools, platforms, systems.
-- **Processes**: Efficiency, agility, repeatability.
-- **Financial**: Budget flexibility, access to capital.
+- **Skills & Expertise**: What skills are necessary to deliver your methodology effectively?
+  - Expertise in psychology, data analytics, project management, wellness coaching.
 
-> “Don’t promise what you can’t deliver—start with what you *can*.”
+- **Resources**: What other resources are required for scaling?
+  - Partnerships with mental health organizations, hiring of wellness experts, etc.
