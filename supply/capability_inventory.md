@@ -1,11 +1,10 @@
 # Capability Inventory
 
-A capability inventory outlines what your organization or team is *able* to do—its internal strengths.
+## Core Capabilities:
+- Adobe Illustrator artwork pipeline
+- Font creation and integration
+- Scripted narrative design
+- Level design focused on secrets and traps
+- Countdown mechanics integration
 
-## Categories:
-- **Human Capital**: Skills, experience, and training.
-- **Technology**: Tools, platforms, systems.
-- **Processes**: Efficiency, agility, repeatability.
-- **Financial**: Budget flexibility, access to capital.
-
-> “Don’t promise what you can’t deliver—start with what you *can*.”
+---

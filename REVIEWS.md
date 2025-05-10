@@ -1,9 +1,11 @@
+# REVIEWS.md
+
 # 5-Star Reviews (Highest Praise / Exceptional Recognition)
 
 > Full endorsement, prestige, or impact.
 
-- [5/5] "Your most glowing praise goes here." — Name (Role or Affiliation)
-- [5/5] "Another outstanding review." — Name (Affiliation)
+- [5/5] "A poetic pixel masterpiece. The countdown mechanic is gripping, and the sunset theme is mesmerizing." — Mariel Santos (Indie Game Critic, PixelArcade)
+- [5/5] "The story, the art, the atmosphere — it’s a spiritual journey in 16-bit." — Kai Rivera (SunDown Studio)
 
 ---
 
@@ -11,8 +13,8 @@
 
 > Strong encouragement or interest, with room for improvement or future impact.
 
-- [4/5] "Supportive comment that suggests practical value." — Name (Affiliation)
-- [4/5] "Genuine praise, slightly short of full endorsement." — Name
+- [4/5] "Love the pixel art and mystery. The level design could be more intuitive, but it’s a beautiful ride." — Imelda Cruz (RetroGamer Digest)
+- [4/5] "An ambitious game with soul. Excited to see how it evolves post-launch." — Raymon Leo (GameJolt Explorer)
 
 ---
 
@@ -20,8 +22,8 @@
 
 > Recognizes merit with cautious, neutral, or conditional tones.
 
-- [3/5] "Acknowledgement with caveats or personal framing." — Name
-- [3/5] "Interesting, but not necessarily outstanding." — Name
+- [3/5] "Interesting concept, though the countdown adds pressure that may not suit all players." — Julz Arriaga
+- [3/5] "Great style, but I got lost a lot. More guidance would help." — Dan from NowPlayingPixel
 
 ---
 
@@ -29,8 +31,8 @@
 
 > Vague, lukewarm, or unclear reactions.
 
-- [2/5] "Minimal or passive response, potentially confused." — Name
-- [2/5] "Comment with unclear stance." — Name
+- [2/5] "Not sure what I was supposed to do. Beautiful though?" — @RetroChibiCat
+- [2/5] "I didn’t get the crystal mechanic. Timer was frustrating." — Maxine P.
 
 ---
 
@@ -38,5 +40,5 @@
 
 > Skepticism, criticism, or dismissiveness.
 
-- [1/5] "Direct criticism or skepticism." — Name
-- [1/5] "Dismissive or sarcastic comment." — Name
+- [1/5] "Pixel games again? This one’s just a sunset reskin." — Anonymous User
+- [1/5] "Why does every indie dev think timers are fun?" — saltyglitcher42

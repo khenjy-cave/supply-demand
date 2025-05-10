@@ -1,16 +1,10 @@
 # Unmet Needs & Opportunities
 
-Markets are full of unmet needs—problems that are either underserved or overlooked. Identifying these is where innovation begins.
+Few games:
+- Use Adobe Illustrator for complete visual production
+- Tie game visuals, UI, and fonts into a unified sunset aesthetic
+- Use timer-based narrative design effectively
 
-## How to Spot Them:
-- Complaints and bad reviews
-- Feature requests and workarounds
-- Underserved segments (niches)
-- Market gaps due to pricing, culture, or accessibility
+This game fills that niche.
 
-## Tools to Help:
-- Jobs-to-be-Done framework
-- User interviews and shadowing
-- Trend analysis with unmet intent keywords
-
-> “Your biggest opportunity is what no one’s solving well—yet.”
+---

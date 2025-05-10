@@ -1,15 +1,10 @@
 # Oversupply Risks
 
-Oversupply occurs when the quantity of goods or services exceeds market demand. It leads to price drops, waste, or lost margins.
+With many pixel adventure games available, standing out is tough.
 
-## Causes:
-- Overestimating market size
-- Ignoring competitor capacity
-- Lack of data-driven forecasting
+## Mitigation:
+- Distinctive Illustrator art style
+- Emotional storytelling with countdown mechanic
+- Strong brand built through limited, handcrafted levels
 
-## Consequences:
-- Inventory storage issues
-- Discounts that hurt perceived value
-- Wasted production resources
-
-> “Making too much is often worse than making too little.”
+---

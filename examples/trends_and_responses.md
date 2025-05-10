@@ -1,15 +1,12 @@
-# Trends and Market Responses
+# Trends & Game Design Responses
 
-Tracking trends helps companies anticipate rather than react. The real challenge lies in *how* businesses respond.
+## Observed Trends:
+- Surge in hand-crafted indie games
+- High engagement in story-driven timer-based games
 
-## Recent Trends:
-- **Sustainability**: Eco-conscious products and ethical supply chains.
-- **Remote Work**: Rise in productivity tools and asynchronous workflows.
-- **AI Everywhere**: From automation to creative generation.
+## Design Responses:
+- Use of Illustrator instead of game engines for art uniqueness
+- Custom countdown mechanic not reliant on conventional HUDs
+- Secret-focused level design for exploration
 
-## Response Strategies:
-- Early adoption or pivot
-- Repositioning existing offerings
-- R&D investment or partnerships
-
-> “Recognizing a trend is easy—responding well is rare.”
+---

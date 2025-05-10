@@ -1,15 +1,13 @@
 # Cost Structure
 
-Your cost structure is how your organization spends money to operate. Understanding this is key to pricing, scaling, and profit margins.
+## Main Costs:
+- Time investment in handcrafted artwork and animation
+- Soundtrack licensing or original music
+- Marketing and publishing on Itch.io or Steam
 
-## Fixed Costs:
-- Salaries
-- Rent
-- Software licenses
+## Cost Minimization:
+- Open-source sound libraries
+- Use of built-in font tools
+- Focus on digital distribution
 
-## Variable Costs:
-- Raw materials
-- Commissioned labor
-- Shipping and logistics
-
-> “Revenue is vanity. Cost structure is reality.”
+---

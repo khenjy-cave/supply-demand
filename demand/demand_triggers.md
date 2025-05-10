@@ -1,12 +1,13 @@
 # Demand Triggers
 
-Demand triggers are factors or events that cause a sudden or steady rise in interest for a product, service, or solution. Understanding what sparks demand is essential for anticipating market needs and aligning offerings accordingly.
+The world is ending... or is it?
 
-## Common Triggers:
-- **Technological Advancements**: New tech reshapes what people want (e.g., AI, blockchain).
-- **Regulatory Changes**: Government policies can create new market opportunities.
-- **Cultural Shifts**: Trends in behavior, fashion, or values spark fresh demand.
-- **Economic Events**: Inflation, interest rate cuts, or employment shifts can influence buying power.
-- **Crises or Disasters**: Pandemics or natural disasters often shift focus to essentials or alternatives.
+Each level begins with a vision of how the world will be destroyed—tidal waves, firestorms, earthquakes, or corruption. These disasters serve as emotional and mechanical triggers for the player's journey.
 
-> “Demand doesn’t just appear. Something causes it to *wake up*.”
+- Level 1: Cracking Earth (Seismic Destruction)
+- Level 2: Dimming Skies (Solar Collapse)
+- Level 3: Flooded Fields (Monsoon Rains)
+- Level 4: Ember Trees (Forest Fires)
+- Level 5: Final Echo (Dimensional Break)
+
+---
