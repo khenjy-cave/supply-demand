@@ -1,15 +1,12 @@
 # Oversupply Risks
 
-Oversupply occurs when the quantity of goods or services exceeds market demand. It leads to price drops, waste, or lost margins.
+Meskipun permintaan akan solusi digital sangat besar, ada risiko oversupply dalam beberapa area, seperti:
 
-## Causes:
-- Overestimating market size
-- Ignoring competitor capacity
-- Lack of data-driven forecasting
+1. **Pasar yang Penuh dengan Solusi Generik**  
+   Banyak software house yang menawarkan solusi umum tanpa menyesuaikan dengan kebutuhan spesifik klien. Hal ini menyebabkan banyak produk yang kurang relevan di pasar.
 
-## Consequences:
-- Inventory storage issues
-- Discounts that hurt perceived value
-- Wasted production resources
+2. **Persaingan Harga yang Ketat**  
+   Semakin banyak perusahaan yang masuk ke pasar pengembangan aplikasi digital, menyebabkan tekanan harga yang dapat menurunkan kualitas produk dan layanan.
 
-> “Making too much is often worse than making too little.”
+3. **Keterbatasan Sumber Daya dan Keahlian**  
+   Tuntutan untuk selalu berinovasi dapat menyebabkan kelelahan dalam tim pengembangan, mengurangi kualitas dan dampak solusi yang ditawarkan.

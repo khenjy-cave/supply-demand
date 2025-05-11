@@ -1,15 +1,12 @@
-# Product-Market Fit
+# Product Market Fit
 
-Product-market fit (PMF) is the alignment between what you're offering and what your market *desperately* wants.
+PT Arus Digital Sinergi mencapai kecocokan produk-pasar dengan cara:
 
-## Indicators of PMF:
-- Customers come back without reminders
-- Word-of-mouth drives growth
-- You can’t hire fast enough to keep up with demand
+1. **Pendekatan Berfokus pada Pengguna**  
+   Dengan menggunakan Design Thinking dalam setiap proyek, kami memastikan bahwa setiap produk yang kami kembangkan sesuai dengan kebutuhan dan harapan pengguna.
 
-## Testing for PMF:
-- Surveys (e.g., “How disappointed would you be if this product went away?”)
-- Churn rates and customer retention
-- Net Promoter Score (NPS)
+2. **Kustomisasi dan Fleksibilitas**  
+   Produk kami dirancang untuk memenuhi kebutuhan spesifik pasar dan klien, baik itu aplikasi mobile, website bisnis, atau solusi ERP berbasis cloud.
 
-> “PMF means people want what you built—even if it’s still ugly.”
+3. **Validasi Melalui Umpan Balik Pengguna**  
+   Kami memastikan solusi kami terus berkembang dengan validasi berkelanjutan dari pengguna dan integrasi umpan balik yang cepat dalam pengembangan produk.

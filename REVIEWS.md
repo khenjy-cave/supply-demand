@@ -1,42 +1,42 @@
-# 5-Star Reviews (Highest Praise / Exceptional Recognition)
+# Ulasan 5-Bintang (Pujian Tertinggi / Pengakuan Luar Biasa)
 
-> Full endorsement, prestige, or impact.
+> Dukungan penuh, prestise, atau dampak.
 
-- [5/5] "Your most glowing praise goes here." — Name (Role or Affiliation)
-- [5/5] "Another outstanding review." — Name (Affiliation)
-
----
-
-# 4-Star Reviews (Strong Support / Curiosity)
-
-> Strong encouragement or interest, with room for improvement or future impact.
-
-- [4/5] "Supportive comment that suggests practical value." — Name (Affiliation)
-- [4/5] "Genuine praise, slightly short of full endorsement." — Name
+- [5/5] "Layanan luar biasa dan pengembangan kelas atas! Tim PT Arus Digital Sinergi secara konsisten memberikan hasil yang luar biasa, melebihi ekspektasi." — John Doe (CEO, Tech Innovations)
+- [5/5] "Perhatian terhadap detail dan pendekatan yang dipersonalisasi untuk setiap proyek sangat luar biasa. Sangat direkomendasikan untuk bisnis yang ingin mengembangkan solusi digital mereka." — Jane Smith (Founder, Digital Solutions Inc.)
 
 ---
 
-# 3-Star Reviews (Mild Praise / Personal Strategy)
+# Ulasan 4-Bintang (Dukungan Kuat / Ketertarikan)
 
-> Recognizes merit with cautious, neutral, or conditional tones.
+> Dukungan yang kuat atau ketertarikan, dengan ruang untuk perbaikan atau dampak masa depan.
 
-- [3/5] "Acknowledgement with caveats or personal framing." — Name
-- [3/5] "Interesting, but not necessarily outstanding." — Name
-
----
-
-# 2-Star Reviews (Neutral or Confused)
-
-> Vague, lukewarm, or unclear reactions.
-
-- [2/5] "Minimal or passive response, potentially confused." — Name
-- [2/5] "Comment with unclear stance." — Name
+- [4/5] "Kolaborasi yang luar biasa dengan PT Arus Digital Sinergi. Keterampilan teknis tim sangat mengesankan, dan mereka menjadi mitra yang solid dalam perjalanan transformasi digital kami. Kami menantikan proyek-proyek selanjutnya." — Michael Johnson (CTO, StartUpX)
+- [4/5] "Mitra yang dapat diandalkan dalam membangun solusi kustom. Mereka memahami kebutuhan klien dan bekerja tanpa lelah untuk mewujudkannya. Beberapa area perlu perbaikan, tetapi secara keseluruhan pengalaman yang sangat positif." — Emily Clark (Project Manager, InnovateNow)
 
 ---
 
-# 1-Star Reviews (Booing / Trash Talk)
+# Ulasan 3-Bintang (Pujian Ringan / Strategi Pribadi)
 
-> Skepticism, criticism, or dismissiveness.
+> Mengakui prestasi dengan nada hati-hati, netral, atau bersyarat.
 
-- [1/5] "Direct criticism or skepticism." — Name
-- [1/5] "Dismissive or sarcastic comment." — Name
+- [3/5] "PT Arus Digital Sinergi memberikan solusi yang cukup baik, tetapi saya rasa masih ada ruang untuk inovasi lebih lanjut dalam hal pengalaman pengguna." — Alex Harris (Business Development Manager)
+- [3/5] "Pendekatan mereka terhadap pengembangan menarik, meskipun kami mengalami beberapa hambatan selama fase implementasi. Tidak buruk, tetapi bisa lebih lancar." — Sarah Lee (Operations Lead)
+
+---
+
+# Ulasan 2-Bintang (Netral atau Bingung)
+
+> Reaksi yang samar, kurang jelas, atau bingung.
+
+- [2/5] "Tim ini cukup membantu, tetapi saya merasa ada beberapa area di mana komunikasi bisa lebih baik. Tidak yakin apakah saya akan bekerja sama lagi." — Tom White (Product Owner)
+- [2/5] "Perasaan campur aduk. Beberapa aspek berjalan dengan baik, tetapi secara keseluruhan, tidak memenuhi semua ekspektasi kami." — Linda Davis (Marketing Director)
+
+---
+
+# Ulasan 1-Bintang (Kritikan / Sindiran)
+
+> Skeptisisme, kritik, atau sikap meremehkan.
+
+- [1/5] "Kami memiliki pengalaman yang mengecewakan dengan PT Arus Digital Sinergi. Produk tidak sesuai harapan, dan layanan pelanggan sangat kurang." — Mark Fisher (Entrepreneur)
+- [1/5] "Kemitraan yang frustrasi. Sepertinya mereka tidak sepenuhnya memahami permintaan kami, dan hasilnya jauh di bawah ekspektasi." — Rachel Green (Founder, GreenTech)

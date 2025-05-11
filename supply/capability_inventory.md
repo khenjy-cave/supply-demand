@@ -1,11 +1,15 @@
 # Capability Inventory
 
-A capability inventory outlines what your organization or team is *able* to do—its internal strengths.
+PT Arus Digital Sinergi memiliki berbagai kemampuan yang mendukung layanan pengembangan perangkat lunak dan teknologi digital:
 
-## Categories:
-- **Human Capital**: Skills, experience, and training.
-- **Technology**: Tools, platforms, systems.
-- **Processes**: Efficiency, agility, repeatability.
-- **Financial**: Budget flexibility, access to capital.
+1. **Pengembangan Aplikasi Web**  
+   Tim kami memiliki keahlian dalam menggunakan framework modern untuk mengembangkan aplikasi web yang responsif dan skalabel.
 
-> “Don’t promise what you can’t deliver—start with what you *can*.”
+2. **Pengembangan Aplikasi Mobile**  
+   Kami memiliki kemampuan dalam pengembangan aplikasi Android dan iOS menggunakan teknologi terkini.
+
+3. **Implementasi ERP**  
+   Kami berpengalaman dalam membantu perusahaan mengimplementasikan dan menyesuaikan sistem ERP menggunakan platform seperti Odoo untuk meningkatkan efisiensi operasional.
+
+4. **Desain UI/UX**  
+   Fokus kami adalah memberikan pengalaman pengguna terbaik melalui desain antarmuka yang intuitif dan estetis.

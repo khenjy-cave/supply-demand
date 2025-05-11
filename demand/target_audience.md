@@ -1,11 +1,11 @@
 # Target Audience
 
-The target audience represents the specific group of people a product or service is designed to serve. Defining this group is essential for aligning messaging, pricing, and features.
+PT Arus Digital Sinergi (ADS) melayani dua segmen utama audiens:
 
-## Key Dimensions:
-- **Demographics**: Age, gender, income level, education.
-- **Psychographics**: Interests, beliefs, attitudes.
-- **Behavioral Traits**: Purchase patterns, tech adoption, lifestyle.
-- **Pain Points**: What problems are they actively trying to solve?
+1. **B2B (Business to Business)**  
+   - **Perusahaan Besar dan Menengah**: Mereka membutuhkan solusi teknologi yang dapat diintegrasikan dengan sistem yang sudah ada dan mendukung pertumbuhan digital mereka.
+   - **UKM dan Startups**: Memerlukan aplikasi berbasis web dan mobile yang terjangkau untuk mengoptimalkan operasional mereka, seperti website bisnis, aplikasi e-commerce, atau sistem manajemen.
 
-> “If you’re building for everyone, you’re building for no one.”
+2. **B2C (Business to Consumer)**  
+   - **Individu yang Tertarik dengan Teknologi**: Menawarkan program pelatihan dan bootcamp untuk individu yang ingin meningkatkan keterampilan IT mereka, seperti pengembangan aplikasi dan keamanan siber.
+   - **Pencari Karir di Dunia Digital**: Membantu individu yang ingin mengembangkan karir di industri teknologi melalui pelatihan praktis dan akses ke peluang pekerjaan.

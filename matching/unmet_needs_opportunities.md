@@ -1,16 +1,10 @@
-# Unmet Needs & Opportunities
+# Unmet Needs and Opportunities
 
-Markets are full of unmet needs—problems that are either underserved or overlooked. Identifying these is where innovation begins.
+1. **Solusi Kustom untuk UKM**  
+   Banyak bisnis kecil dan menengah yang membutuhkan aplikasi dengan fungsionalitas sederhana namun efisien. Arus Digital melihat peluang untuk menyediakan solusi yang lebih terjangkau dan terfokus.
 
-## How to Spot Them:
-- Complaints and bad reviews
-- Feature requests and workarounds
-- Underserved segments (niches)
-- Market gaps due to pricing, culture, or accessibility
+2. **Pelatihan dan Pengembangan Keterampilan IT untuk Individu**  
+   Dengan tingginya permintaan untuk keterampilan IT, Arus Digital melihat peluang besar dalam menyediakan program pelatihan yang mengarah pada pengembangan karir di sektor teknologi.
 
-## Tools to Help:
-- Jobs-to-be-Done framework
-- User interviews and shadowing
-- Trend analysis with unmet intent keywords
-
-> “Your biggest opportunity is what no one’s solving well—yet.”
+3. **Adopsi Sistem ERP di Sektor Usaha Mikro dan Kecil**  
+   Banyak bisnis di Indonesia yang belum mengadopsi sistem ERP karena kendala biaya. Arus Digital dapat menyediakan solusi ERP yang lebih terjangkau dan dapat disesuaikan dengan kebutuhan usaha kecil.

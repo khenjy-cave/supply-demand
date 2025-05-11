@@ -1,11 +1,10 @@
 # Supply Chain
 
-The supply chain covers the full journey of a product—from raw material to customer delivery.
+1. **Sumber Daya Manusia**  
+   Tim pengembangan kami terdiri dari individu-individu terampil yang ahli dalam berbagai bahasa pemrograman dan teknologi.
 
-## Key Components:
-- **Sourcing**: Where and how you get raw materials.
-- **Manufacturing**: Assembly or production processes.
-- **Logistics**: Warehousing, transportation, fulfillment.
-- **Risk Management**: Backup plans, supplier diversification, crisis handling.
+2. **Vendor dan Mitra**  
+   Kami bekerja sama dengan berbagai mitra teknologi dan vendor perangkat lunak untuk menyediakan solusi yang terbaik bagi klien kami.
 
-> “A chain is only as strong as its weakest vendor.”
+3. **Proses Pengembangan Agile**  
+   Kami menerapkan metodologi Agile untuk memastikan bahwa proyek dapat diselesaikan tepat waktu dan sesuai dengan anggaran yang telah disepakati.

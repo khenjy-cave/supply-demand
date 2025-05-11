@@ -1,15 +1,12 @@
 # Cost Structure
 
-Your cost structure is how your organization spends money to operate. Understanding this is key to pricing, scaling, and profit margins.
+PT Arus Digital Sinergi menawarkan model biaya yang transparan, yang meliputi:
 
-## Fixed Costs:
-- Salaries
-- Rent
-- Software licenses
+1. **Pengembangan Aplikasi Web**  
+   Biaya pengembangan aplikasi web tergantung pada kompleksitas dan fitur yang dibutuhkan. Kami menawarkan harga paket yang dapat disesuaikan dengan anggaran klien.
 
-## Variable Costs:
-- Raw materials
-- Commissioned labor
-- Shipping and logistics
+2. **Pengembangan Aplikasi Mobile**  
+   Biaya untuk pengembangan aplikasi mobile bergantung pada platform yang dipilih (Android/iOS) dan fitur aplikasi yang diminta.
 
-> “Revenue is vanity. Cost structure is reality.”
+3. **Pelatihan dan Konsultasi**  
+   Kami menawarkan program pelatihan dengan harga yang fleksibel, disesuaikan dengan kebutuhan perusahaan atau individu yang ingin meningkatkan keterampilan di bidang teknologi.

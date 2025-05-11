@@ -1,17 +1,11 @@
 # Case Studies
 
-These real-world examples show how companies responded to demand patterns effectively—or failed to.
+## 1. **Shoesfy (Android Development)**
+   **Masalah**: Shoesfy membutuhkan aplikasi mobile untuk memudahkan pengguna membeli sepatu secara online dengan pengalaman yang mudah dan responsif.  
+   **Solusi**: Tim Arus Digital mengembangkan aplikasi mobile Android yang memungkinkan pengguna untuk menelusuri produk, melakukan pembelian, dan melacak pengiriman dengan fitur yang intuitif.  
+   **Hasil**: Aplikasi Shoesfy berhasil meningkatkan konversi penjualan online sebanyak 30%.
 
-## Example 1: Netflix
-**Trigger**: Internet bandwidth and streaming habits  
-**Response**: Shifted from DVDs to streaming, then to content production.
-
-## Example 2: Kodak
-**Trigger**: Rise of digital cameras  
-**Response**: Ignored for too long; failed to adapt and lost market share.
-
-## Example 3: Zoom
-**Trigger**: COVID-19 pandemic  
-**Response**: Scaled rapidly to meet sudden global video conferencing needs.
-
-> “Case studies are hindsight with clarity—your future can benefit from that.”
+## 2. **Blog Travel (Web Development)**
+   **Masalah**: Klien membutuhkan website yang menarik dan mudah digunakan untuk berbagi cerita perjalanan dan tips kepada pembaca.  
+   **Solusi**: Arus Digital mengembangkan website dengan desain estetis dan fungsionalitas blog yang memungkinkan pembaca berinteraksi, berkomentar, dan berbagi artikel.  
+   **Hasil**: Peningkatan jumlah pengunjung sebesar 50% dalam enam bulan pertama setelah peluncuran.
