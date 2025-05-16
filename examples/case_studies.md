@@ -1,17 +1,11 @@
 # Case Studies
 
-These real-world examples show how companies responded to demand patterns effectively—or failed to.
+## Ferry Dolphin: Batam to Malaysia Route
 
-## Example 1: Netflix
-**Trigger**: Internet bandwidth and streaming habits  
-**Response**: Shifted from DVDs to streaming, then to content production.
-
-## Example 2: Kodak
-**Trigger**: Rise of digital cameras  
-**Response**: Ignored for too long; failed to adapt and lost market share.
-
-## Example 3: Zoom
-**Trigger**: COVID-19 pandemic  
-**Response**: Scaled rapidly to meet sudden global video conferencing needs.
-
-> “Case studies are hindsight with clarity—your future can benefit from that.”
+- **Background:** Launched in September 2023 to increase connectivity between Batam and Johor Bahru, Malaysia.
+- **Challenge:** Limited direct ferry options for travelers, dependence on Singapore transit.
+- **Solution:** Fast ferry service operating three round trips daily between Harbour Bay (Batam) and Pasir Gudang (Johor).
+- **Results:** 
+  - Improved accessibility and convenience for tourists and business travelers.
+  - Growth in tourism from Malaysia, contributing to Batam’s tourism sector.
+  - Positive government support and increased traveler satisfaction.

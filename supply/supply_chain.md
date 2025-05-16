@@ -1,11 +1,7 @@
 # Supply Chain
 
-The supply chain covers the full journey of a product—from raw material to customer delivery.
-
-## Key Components:
-- **Sourcing**: Where and how you get raw materials.
-- **Manufacturing**: Assembly or production processes.
-- **Logistics**: Warehousing, transportation, fulfillment.
-- **Risk Management**: Backup plans, supplier diversification, crisis handling.
-
-> “A chain is only as strong as its weakest vendor.”
+- Ticketing handled through online booking and at-terminal services.
+- Coordination with Harbour Bay (Batam) and Pasir Gudang (Johor) terminal authorities.
+- Maintenance and servicing of vessels in Batam or Johor.
+- Crew training and scheduling handled locally.
+- Travel coordination with regional tourism offices and agencies.

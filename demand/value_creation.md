@@ -1,15 +1,7 @@
 # Value Creation
 
-Value creation is the core of every successful business model. It's about delivering something customers *actually* care about.
-
-## Ways to Create Value:
-- **Solving a painful problem**
-- **Improving convenience or efficiency**
-- **Saving time or money**
-- **Offering status, joy, or identity**
-- **Building trust or reducing risk**
-
-## Business Perspective:
-Value isn't just customer-facing—it also includes **operational efficiency**, **scalability**, and **brand equity**.
-
-> “Real value is when users feel like they'd miss you if you disappeared.”
+- Provides a comfortable and time-efficient travel option between Batam and Johor Bahru.
+- Fills a connectivity gap in regional tourism and commerce routes.
+- Reduces dependence on Singapore transit for cross-border travel.
+- Increases accessibility to Batam’s tourist amenities and infrastructure.
+- Offers fixed daily schedules (3 round trips/day) for reliability and flexibility.

@@ -1,11 +1,7 @@
 # Target Audience
 
-The target audience represents the specific group of people a product or service is designed to serve. Defining this group is essential for aligning messaging, pricing, and features.
-
-## Key Dimensions:
-- **Demographics**: Age, gender, income level, education.
-- **Psychographics**: Interests, beliefs, attitudes.
-- **Behavioral Traits**: Purchase patterns, tech adoption, lifestyle.
-- **Pain Points**: What problems are they actively trying to solve?
-
-> “If you’re building for everyone, you’re building for no one.”
+- Tourists from Malaysia visiting Batam.
+- Indonesian travelers looking to access Johor Bahru without transiting through Singapore.
+- Singaporean tourists accessing Batam and Johor via regional ferry links.
+- Regional business travelers requiring cross-border mobility.
+- Malaysian residents seeking weekend getaways to Batam.
